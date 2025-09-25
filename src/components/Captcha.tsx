@@ -68,7 +68,7 @@ export default function Captcha() {
 
   return (
     <div className="w-full max-w-3xl bg-sky-100 rounded-3xl p-6 shadow-xl">
-      <h1 className="text-2xl font-bold mb-1">Prove you're a human.</h1>
+      <h1 className="text-2xl font-bold mb-1">Prove you&apos;re a human.</h1>
       <p className="text-slate-700 mb-4">Complete your grocery shopping!</p>
 
       <section className="flex flex-col gap-6">
