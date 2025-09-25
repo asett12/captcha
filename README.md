@@ -14,7 +14,6 @@ A simple demo CAPTCHA built with Next.js.
 **Quick Start**
 - npm install
 - npm run dev
-# open http://localhost:3000
 
 **How It Works**
 - Generate random string
